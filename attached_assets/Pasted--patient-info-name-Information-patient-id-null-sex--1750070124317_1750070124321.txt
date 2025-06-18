@@ -1,0 +1,24 @@
+{
+    "patient_info": {
+        "name": "Information",
+        "patient_id": null,
+        "sex": "Male",
+        "age": null,
+        "date_of_birth": null,
+        "study_id": "A202504182017466"
+    },
+    "report_details": {
+        "created_on": "4/19/2025",
+        "report_date": null,
+        "license_id": "932827031611748662",
+        "physician_name": "NIKITACHATURVEDI",
+        "institution_name": "name KIRANHOSPITALSURAT",
+        "institution_address": "Departmentname CATHLAB1",
+        "report_type": null,
+        "department": null
+    },
+    "raw_text": "--- Page 1 ---\nPIE e\nMEDICAL\nIMAGING\nReportdetails\nUsername DESKTOP-925APFBVivaanImaging\nCreatedon 4/19/202511:14:39\nLicenseID 932827031611748662\nPhysician DR.ALOKRANJAN/DR.VISHALVANANI/DR.NIKITACHATURVEDI\nInstitutionname KIRANHOSPITALSURAT\nInstitutionaddress\nDepartmentname CATHLAB1\nPatientInformation\nName DORIVANUBHAIM. Sex Male\nD CAG/25047/63Y Birthdate(age) e\nAccessionnumber A202504182017466 Height -\nReferringphysician . Weight .\nStudyId R202504182017466 BSA -\nAcquisitiondate 4/18/2025\nComments\nClinicalhistory\nConclusion\nCAASWorkstation8.5.5 1/5\n\n\n--- Page 2 ---\nDORIVANUBHAIM.-4/19/202511:14:39 VivaanImaging\nResultsforvessel\nVFFR 0.82 VFFR(Residual) 0.88\nap 17mmHg AP(Residual) 11mmHg\nSystolicpressure 120mmHg Length(Residual) 28.40mm\nDiastolicpressure 80mmHg\nObstructionlength 28.40mm\nPositionoflesion 13.80mm\nLesion\nTequivalentDiameterJAea\n3Dreconstructedvessel\nRAO47.6 1.0\nCRA34.0\n09\n, 0.8\nN 07\n06\n05\nDiameter\ne I\nA J\nEs\ng i\n5 2 ---\n5 i 1.65\n81 i\na i\n0 i\n0 10 20 30 40 50 60 70 80\nmm\nVvFFR\ni :\n\ni 3 0.88\nLos3: i 0.82\nR i\nR i\n\n06 H H\n0 10 20 30 40 50 60 70 80\nmm\nCAASWorkstation8.5.5 2/5\n\n\n--- Page 3 ---\nDORIVANUBHAIM.-4/19/202511:14:39 VivaanImaging\nAnalysisimageinformation\nPhilips765-FloorRotate,ISO:765\n1SOvalueoriginatesfromimage(s).\nN Filename HDNXA000\nP xkx    ), 4 m,f , x Plane -\nNN . YN Imageframe 37/97\nQ .  k y C-Am FloorHeadRotate\nbVl N\nQi e Rotation LAC0:8\n3 oV y Angulation CRA45.0\nJ.V Seriesnumber2\n3 sip 1206mm\n./k\nN SOD 765mm\nM\n) 150 765mm(fromimage)\nForeshortening8\nContourCorrected249Left\n09Right\n129Total\niy 5, , Filename HDNXA000\nLA bl\nN : N 3 -\no5 TSR, 3 Imageframe 80/159\n4 //ihlii oA N C-Am FloorHeadRotate\n) N 1Rotation RAO38.7\nN Angulation CRA36.8\n. .\nN Seriesnumber6\n.\nN sip 1159mm\nNI\n) SoD 765mm\n150 765mm(fromimage)\nForeshortening29\nContourCorrected16Left\n7 09Right\n89Total\nCAASWorkstation8.5.5 3/5\n\n\n--- Page 4 ---\nDORIVANUBHAIM.-4/19/202511:14:39 VivaanImaging\n\nCaption1\n\nMeasurement1 mm\n\nMeasurement2 mm\n\nMeasurement3 1Absent2Pres\n\nMeasurement4 0-180degrees\n\nMeasurement5 Unit\n\nMeasurement6 Unit\n\nMeasurement7 Unit\n\nMeasurement8 Unit\n\nMeasurement9 Unit\n\nMeasurement10 Unit\n\nCaption2\n\nMeasurement1 mm\n\nMeasurement2 mm\n\nMeasurement3 1Absent2Pres\n\nMeasurement4 0-180degrees\n\nMeasurement5 Unit\n\nCAASWorkstation8.5.5 Note:Theresultsonthispagearespecifiedmanuallyandnotbasedonmeasurements. 4/5\nPieMedicalImagingB.V.thereforecannotguaranteethecorrectnessoftheseresults.\n\n\n--- Page 5 ---\nDORIVANUBHAIM.-4/19/202511:14:39 VivaanImaging\n22\n\nCaption3\n\nMeasurement1 Unit\n\nMeasurement2 Unit\n\nMeasurement3 Unit\n\nMeasurement4 Unit\n\nMeasurement5 Unit\n\nCAASWorkstation8.5.5 Note:Theresultsonthispagearespecifiedmanuallyandnotbasedonmeasurements. 5/5\nPieMedicalImagingB.V.thereforecannotguaranteethecorrectnessoftheseresults.\n",
+    "source_filename": "20250418202357_RC_20250419113422-1.pdf",
+    "extraction_confidence": "high",
+    "processed_at": "2025-06-16T10:33:47.362622"
+}

@@ -1,0 +1,19 @@
+--- Page 1 ---
+PIE e
+MEDICAL
+IMAGING
+Reportdetails
+Username DESKTOP-925APFBVivaanImaging
+Createdon 4/19/202511:14:39
+LicenseID 932827031611748662
+Physician DR.ALOKRANJAN/DR.VISHALVANANI/DR.NIKITACHATURVEDI
+Institutionname KIRANHOSPITALSURAT
+Institutionaddress
+Departmentname CATHLAB1
+PatientInformation
+Name DORIVANUBHAIM. Sex Male
+D CAG/25047/63Y Birthdate(age) e
+Accessionnumber A202504182017466 Height -
+Referringphysician . Weight .
+StudyId R20250418202017466 BSA -
+Acquisitiondate 4/18/2025 Comments
