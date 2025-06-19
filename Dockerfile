@@ -19,8 +19,8 @@ COPY . .
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-# Expose the port Railway will use
+# Expose default port (Railway dynamically sets it anyway)
 EXPOSE 8000
 
-# Run the app with the correct dynamic port
-CMD ["sh", "-c", "uvicorn main:app --host=0.0.0.0 --port=$PORT"]
+# Start app with shell-expansion for PORT
+CMD ["sh", "-c", "uvicorn main:app --host=0.0.0.0 --port=${PORT}"]
