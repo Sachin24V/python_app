@@ -1,7 +1,7 @@
 # Use official Python image
 FROM python:3.11-slim
 
-# Install system dependencies
+# Install dependencies
 RUN apt-get update && apt-get install -y \
     tesseract-ocr \
     libtesseract-dev \
@@ -12,15 +12,15 @@ RUN apt-get update && apt-get install -y \
 # Set working directory
 WORKDIR /app
 
-# Copy all project files into the container
+# Copy files
 COPY . .
 
-# Install Python dependencies
+# Install Python packages
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-# Expose the port
+# Expose port
 EXPOSE 8000
 
-# Start app using shell so $PORT gets expanded
-CMD ["sh", "-c", "echo Starting app on port $PORT && uvicorn main:app --host=0.0.0.0 --port=${PORT}"]
+# Start the app with fallback port
+CMD ["sh", "-c", "uvicorn main:app --host=0.0.0.0 --port=${PORT:-8000}"]
