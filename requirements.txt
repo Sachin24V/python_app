@@ -1,8 +1,10 @@
-fastapi==0.115.12
+fastapi==0.115.2
 uvicorn==0.34.3
 pytesseract==0.3.13
 pillow==11.2.1
 pymupdf==1.26.1
 aiofiles==24.1.0
-pydantic==2.11.7
+pydantic==2.11.1
 python-multipart==0.0.20
+python-dotenv==1.0.1
+starlette==0.37.2
